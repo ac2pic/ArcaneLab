@@ -1,4 +1,6 @@
 {
     "DOCTYPE": "CUSTOM_CHARACTER_CONFIG",
+    "name": "SusieHacked",
+    "player": false,
     "severed-head": "media/gui/severed-heads/susie-hacked.png"
 }
