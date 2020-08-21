@@ -1,0 +1,12 @@
+{
+  "id": "arcane-lab",
+  "version": "0.1.1",
+	"title": "\\c[3]Arcane Lab\\c[0]",
+	"description" : ":)",
+  "prestart": "prestart.js",
+  "poststart": "poststart.js",
+  "dependencies": {
+    "cc-custom-character-toolkit": "^1.0.0",
+    "utility-resource-organizer": "^1.0.0"
+  }
+}
